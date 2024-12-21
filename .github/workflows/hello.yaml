@@ -1,7 +1,7 @@
 name: Hello World Action
 
 on:
-    push: 
+push: 
         branches: 
             - main
 
