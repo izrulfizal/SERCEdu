@@ -15,3 +15,6 @@ jobs:
             
             - name: Print Hello World!
               run: echo "Hello World! This is running from Github Actions"
+
+            - name: Show list
+              run: ls -l
